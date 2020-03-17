@@ -8,3 +8,5 @@ npm install --save express
 npm install --save-dev @babel/core @babel/node @babel/preset-env
 
 npx babel-node src/server.js  // for running the server
+
+npm install --save body-parser
